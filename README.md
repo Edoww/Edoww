@@ -1,5 +1,3 @@
-[![JAOX](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)](https://github.com/TheJAOXx/)
-
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/586566689781448725" target"blank_"><img src="https://img.shields.io/badge/JAOX%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>

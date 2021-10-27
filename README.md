@@ -3,7 +3,7 @@
 
 🎉 Tekrardan herkese selam!
 
-- Kendimden biraz bahsedeyim. Ben Umut namı diğer [TheJAOX(JA)](https://github.com/TheJAOXx) 17 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
+- Kendimden biraz bahsedeyim. Ben Umut namı diğer [TheK4J(KEJ)](https://github.com/TheJAOXx) 17 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 1.5 yıla yakındır yazılımla içli dışlıyım, yazılım mühendisliği 1. sınıf öğrencisiyim hâlâ da kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 - Kişisel blogumu [ziyaret](https://jaox.glitch.me/) edebilirsin!

@@ -1,1 +1,4 @@
-  <div><img src="https://komarev.com/ghpvc/?username=TheK4J&&label=PROFILE+VIEWS&color=blue"/></div>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/586566689781448725)](https://discord.com/users/586566689781448725)
